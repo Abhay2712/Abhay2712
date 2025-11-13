@@ -1,25 +1,49 @@
-# 👋 Hi, I'm Abhay
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhay2712/Abhay2712/main/profile-banner.png" alt="Abhay Sharma | Python Backend & AI Developer" width="100%">
+</p>
 
-🚀 **Python Backend & AI Developer** at BlackRock (RQA Team)  
-💡 Passionate about developer tooling, automation, and AI-powered platforms.  
+<h1 align="center">👋 Hi, I'm <span style="color:#3fb950;">Abhay Sharma</span></h1>
 
-### 🧰 Tech Stack
+<p align="center">
+  🚀 <strong>Python Backend & AI Developer</strong> at <strong>BlackRock (Risk & Quantitative Analysis Team)</strong>  
+  <br>💡 Passionate about developer tooling, automation, and AI-powered platforms.  
+</p>
+
+---
+
+### 🧰 Tech Stack  
 💻 **Languages:** Python, C++, SQL, JavaScript  
 ⚙️ **Frameworks:** FastAPI, Flask, LangChain, LangGraph, Node.js, Express  
 ☁️ **Cloud & Infra:** Azure, Snowflake, Azure DevOps, Docker, GCP  
 🧠 **Tools:** Git, Pandas, REST APIs, Streamlit, Jupyter, VSCode  
 
-### 🧩 What I Work On
-- 🧱 Building scalable SDKs and backend systems at BlackRock  
-- 🤖 Integrating LLMs (LangChain, LangGraph, OpenAI) into enterprise tools  
-- ☁️ Creating developer utilities leveraging Azure Blob & Snowflake  
-- 🧪 Exploring Python automation, data pipelines, and AI infrastructure  
+---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Sharma-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abhay-sharma-26a70b186)
-[![Gmail](https://img.shields.io/badge/Gmail-abhaysharma754%40gmail.com-red?style=flat-square&logo=gmail)](mailto:abhaysharma754@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhay2712-black?style=flat-square&logo=github)](https://github.com/Abhay2712)
+### 🧩 What I Work On  
+- 🧱 Building scalable SDKs and backend systems at **BlackRock**  
+- 🤖 Integrating **LLMs (LangChain, LangGraph, OpenAI)** into enterprise tools  
+- ☁️ Creating developer utilities leveraging **Azure Blob Storage** & **Snowflake**  
+- 🧪 Exploring **Python automation**, data pipelines, and AI infrastructure  
 
-### 📊 GitHub Stats
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhay2712&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay2712&layout=compact&theme=radical)
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/abhay-sharma-26a70b186"><img src="https://img.shields.io/badge/LinkedIn-Abhay%20Sharma-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:abhaysharma754@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhaysharma754%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/Abhay2712"><img src="https://img.shields.io/badge/GitHub-Abhay2712-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay2712&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+<p align="center">
+  <em>"Code. Innovate. Conquer."</em>  
+</p>
