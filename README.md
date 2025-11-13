@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay2712/Abhay2712/main/profile-banner.png" alt="Abhay Sharma | Python Backend & AI Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/Abhay2712/Abhay2712/main/Profile-Banner.png" alt="Abhay Sharma | Python Backend & AI Developer" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#3fb950;">Abhay Sharma</span></h1>
