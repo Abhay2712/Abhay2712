@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#3fb950;">Abhay Sharma</span></h1>
 
 <p align="center">
-  🚀 <strong>Python Backend & AI Developer</strong> at <strong>BlackRock (Risk & Quantitative Analysis Team)</strong>  
+  🚀 <strong>Software & AI Developer</strong> at <strong>BlackRock</strong>  
   <br>💡 Passionate about developer tooling, automation, and AI-powered platforms.  
 </p>
 
