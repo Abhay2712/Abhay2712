@@ -6,8 +6,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#3fb950;">Abhay Sharma</span></h1>
 
 <p align="center">
-  🚀 <strong>Software & AI Developer</strong> at <strong>BlackRock</strong>  
-  <br>💡 Passionate about developer tooling, automation, and AI-powered platforms.  
+  👨‍💻 <strong>Software & AI Developer</strong> at <strong>BlackRock</strong>  
+  <br>💡 Passionate about Agentic AI and Production-Grade platform development
 </p>
 
 ---
